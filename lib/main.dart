@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String buttonName = 'Skip to Continue';
+  String buttonName = 'Continue';
   int currentIndex = 0;
 
   @override
