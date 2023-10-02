@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('HomePay'),
+          title: const Text('HomePaye'),
         ),
         body: Center(
           child: Container(
